@@ -1,6 +1,6 @@
 # Said Mazouz's Portfolio
 
-![Header/Banner Image](file:///C:/Users/ASUS/Downloads/said%20co.png)
+![Header/Banner Image](said%20co.png)
 
 ## 👋 About Me
 [Brief introduction about yourself, your skills, and interests]
@@ -23,9 +23,9 @@
 ...
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+!SAID MAZOUZ (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- Email: [your email]
+- Email: mazouzsaid666@gmail.com
 - LinkedIn: [profile link]
 - Twitter: [profile link]
