@@ -1,6 +1,6 @@
-# [Your Name]'s Portfolio
+# Said Mazouz's Portfolio
 
-![Header/Banner Image](link-to-your-banner-image.png)
+![Header/Banner Image](file:///C:/Users/ASUS/Downloads/said%20co.png)
 
 ## 👋 About Me
 [Brief introduction about yourself, your skills, and interests]
