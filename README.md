@@ -1,6 +1,6 @@
 # Said Mazouz's Portfolio
 
-![Header/Banner Image](https://www.canva.com/design/DAGnuuA3yDU/yVj7pO8SvBeVGz_oBbUBEw/edit)
+![Header/Banner Image](file:///C:/Users/ASUS/Downloads/cover%20black.png)
 
 ## 👋 About Me
 [Brief introduction about yourself, your skills, and interests]
