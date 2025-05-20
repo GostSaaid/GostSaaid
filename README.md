@@ -57,4 +57,4 @@ I'm a passionate developer who loves to build things that make a difference. My 
 
 ## 🎧 Currently Listening
 
-[![Spotify]([https://spotify-readme-gostsaaid.vercel.app/api/spotify](https://open.spotify.com/playlist/4szX37jLjzeR3gfqmfbeFT?si=4cab4bd9621d4612))]([https://open.spotify.com/user/yourspotifyid](https://open.spotify.com/playlist/4szX37jLjzeR3gfqmfbeFT?si=4cab4bd9621d4612))
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4cab4bd9621d4612&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/4szX37jLjzeR3gfqmfbeFT?si=4cab4bd9621d4612)
